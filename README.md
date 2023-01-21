@@ -41,3 +41,5 @@ My passionate Web developer and Block-Chain.
 </p>
 <h3 align="left">My GitHub Stats:</h3>
 <a href="http://www.github.com/omprakash2929"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash2929&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![An image of @omprakash2929's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omprakash2929)](https://holopin.io/@omprakash2929)
