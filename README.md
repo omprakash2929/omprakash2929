@@ -15,7 +15,7 @@ I'm a MERN Stack Developer & DevOps Enthusiast
 ---
 
 * 🌍  Based in India  
-* 🖥️  Portfolio: [asmrdev.tech](https://asmrdev.tech/)  
+* 🖥️  Portfolio: [asmrdev.tech](https://www.scripticx.tech/)  
 * ✉️  Contact: [om.prakashchauahan2929@gmail.com](mailto:om.prakashchauahan2929@gmail.com)  
 * 🧠  Currently exploring DevOps, K8s, and scalable system design  
 * 🤝  Open to collaboration on full-stack and cloud-based projects  
