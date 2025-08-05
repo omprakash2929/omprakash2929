@@ -4,8 +4,8 @@ Hi 👋 My name is Omprakash Chauhan
 I'm a MERN Stack Developer & DevOps Enthusiast
 ----------------------------------------------
 
-🎓 I’ve completed my degree in Computer Applications and specialize in building scalable, production-ready web applications and tools. I'm passionate about modern DevOps practices, full-stack development, and automating workflows with clean architecture and tooling.
-
+I specialize in building scalable, production-ready web applications and tools.  
+I'm passionate about modern DevOps practices, full-stack development, and automating workflows with clean architecture and tooling.
 ### 🛠️ Projects I’ve Built
 
 - **SlotSpher** – A modern Calendly-inspired scheduling platform with full-stack booking features.  
