@@ -7,7 +7,8 @@ I'm a MERN Stack Developer & DevOps Enthusiast
 I specialize in building scalable, production-ready web applications and tools.  
 I'm passionate about modern DevOps practices, full-stack development, and automating workflows with clean architecture and tooling.
 ### 🛠️ Projects I’ve Built
-
+- **Netflix Clone CI-CD with Monitoring | Email**
+- **Deployment of Java Application on Kubernetes**
 - **SlotSpher** – A modern Calendly-inspired scheduling platform with full-stack booking features.  
 - **Nodon** – A CLI tool to scaffold Node.js apps (REST APIs, GraphQL, Microservices) in seconds using best practices.  
 - **CloudAdvisor** – A cloud management platform with AI-driven suggestions, user auth, and a clean UI.  
@@ -25,18 +26,7 @@ I'm passionate about modern DevOps practices, full-stack development, and automa
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="githubaction"/> 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="jenkin"  />
-          
+   <img src="https://skillicons.dev/icons?i=cpp,js,go,docker,kubernetes,githubactions,gitlab,jenkins,ansible,grafana,prometheus,nginx,aws,linux,nodejs,express,react,mongodb,postgresql,python,appwrite,graphql,prisma" />        
 </p>
 
 ---
