@@ -16,7 +16,7 @@ I'm passionate about modern DevOps practices, full-stack development, and automa
 ---
 
 * 🌍  Based in India  
-* 🖥️  Portfolio: [scripticx.tech](https://www.scripticx.tech/)  
+* 🖥️  Portfolio: [omprakashchauhan.tech](https://www.omprakashchauhan.tech/)  
 * ✉️  Contact: [om.prakashchauahan2929@gmail.com](mailto:om.prakashchauahan2929@gmail.com)  
 * 🧠  Currently exploring DevOps, K8s, and scalable system design  
 * 🤝  Open to collaboration on full-stack and cloud-based projects  
