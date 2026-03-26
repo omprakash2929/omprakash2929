@@ -1,7 +1,7 @@
 Hi 👋 My name is Omprakash Chauhan
 ==================================
 
-I'm a MERN Stack Developer & DevOps Enthusiast
+DevOps Engineer ⚙️ | Backend Developer (Python, FastAPI, Golang) | MLOps Enthusiast 🚀
 ----------------------------------------------
 
 I specialize in building scalable, production-ready web applications and tools.  
