@@ -26,7 +26,7 @@ I'm passionate about modern DevOps practices, full-stack development, and automa
 ### 🚀 Tech Stack
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=cpp,js,go,docker,kubernetes,githubactions,gitlab,jenkins,ansible,grafana,prometheus,nginx,aws,linux,nodejs,express,react,mongodb,postgresql,python,appwrite,graphql,prisma" />        
+   <img src="https://skillicons.dev/icons?i=python,go,docker,kubernetes,terraform,git,githubactions,gitlab,jenkins,ansible,grafana,prometheus,nginx,aws,linux,typescript,nodejs,express,cpp,mongodb,postgresql" />        
 </p>
 
 ---
