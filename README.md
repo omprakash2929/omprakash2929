@@ -7,6 +7,7 @@ DevOps Engineer ⚙️ | Backend Developer (Python, FastAPI, Golang) | MLOps Ent
 I specialize in building scalable, production-ready web applications and tools.  
 I'm passionate about modern DevOps practices, full-stack development, and automating workflows with clean architecture and tooling.
 ### 🛠️ Projects I’ve Built
+- **Appwrite DevSecOps Pipeline**
 - **Netflix Clone CI-CD with Monitoring | Email**
 - **Deployment of Java Application on Kubernetes**
 - **SlotSpher** – A modern Calendly-inspired scheduling platform with full-stack booking features.  
