@@ -43,10 +43,12 @@ I'm passionate about modern DevOps practices, full-stack development, and automa
 </p>
 
 ---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omprakash2929/omprakash2929/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omprakash2929/omprakash2929/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/omprakash2929/omprakash2929/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-### 📊 GitHub Stats
-
-<a href="http://www.github.com/omprakash2929"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash2929&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
